@@ -1,0 +1,4 @@
+facenet-pytorch
+cv2
+numpy
+pyautogui
